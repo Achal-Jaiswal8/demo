@@ -1,2 +1,4 @@
 # demo
-this is my fiirst repo
+this is my first repo
+author : Achal Jaiswal
+
